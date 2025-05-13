@@ -118,7 +118,7 @@ namespace WorkoutPlannerEnhancedd
             }
 
             btnConfirm.Enabled = true;
-            tabControl.SelectedTab = tabSaved;
+           
 
         }
 
